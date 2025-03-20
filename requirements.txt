@@ -1,0 +1,8 @@
+markdownify==0.14.1
+python-dotenv==1.0.0
+beautifulsoup4==4.12.2
+openai==1.65.1
+smolagents[openai]==1.9.2
+tiktoken==0.9.0
+ipywidgets==8.1.5
+instructor==1.7.2
