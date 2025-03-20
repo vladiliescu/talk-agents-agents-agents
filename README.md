@@ -1,5 +1,5 @@
 # Agents, Agents, Agents! 
-## What AI agents are, and when (not) to build one
+What AI agents are, and when (not) to build one
 
 ## How to run
 
